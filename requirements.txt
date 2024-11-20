@@ -1,0 +1,9 @@
+streamlit
+chromadb
+langchain_community
+langchain_google_genai
+langchain_chroma
+langchain_core
+genai
+python-dotenv
+streamlit-audio-recorder
