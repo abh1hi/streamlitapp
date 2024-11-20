@@ -6,4 +6,3 @@ langchain_chroma
 langchain_core
 genai
 python-dotenv
-streamlit-audio-recorder
