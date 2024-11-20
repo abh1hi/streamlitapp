@@ -94,7 +94,7 @@ def handle_query(user_input):
 st.title("PDF Document QA Assistant")
 
 # Set the predefined file path
-file_path = "path_to_your_pdf_file.pdf"  # Replace with your actual PDF file path
+file_path = "20240716890312078.pdf"  # Replace with your actual PDF file path
 
 # Load the predefined PDF file
 load_pdf(file_path)
